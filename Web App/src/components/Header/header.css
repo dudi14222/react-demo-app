@@ -1,0 +1,16 @@
+.App-header {
+  width: 100%;
+  background-color: #00bcd4;
+  height: 50PX;
+}
+.cart-login-button{
+    margin-top: 8px; 
+    margin-right: 30px;
+}
+.user-name{
+  float: right;
+  margin-right: 30px;
+  margin-top: 15px;
+  font-weight: 800;
+}  
+

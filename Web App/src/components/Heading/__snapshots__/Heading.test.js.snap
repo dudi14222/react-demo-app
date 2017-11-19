@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heading snapshot tests test snapshot 1`] = `
+<hundefined
+  className="heading heading-undefined"
+/>
+`;

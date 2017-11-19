@@ -1,0 +1,178 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout snapshot tests test snapshot 1`] = `
+<div
+  className="App"
+  onClick={[Function]}
+>
+  <header
+    className="App-header"
+  >
+    
+    <div
+      className="App-menubar"
+    >
+      <label
+        className="hamburger-icon fa fa-bars"
+        onClick={[Function]}
+      />
+      <div
+        className="col-md-2 sidenav text-center closed"
+      >
+        <div
+          className="parent-side-SideBar"
+        >
+          <div
+            className="row"
+          >
+            <div
+              className="logo-brand"
+            >
+              <img
+                className="logo"
+                src="/images/logo.jpg"
+                style={
+                  Object {
+                    "height": "100px",
+                    "width": "100px",
+                  }
+                }
+              />
+            </div>
+          </div>
+          <ul
+            className="nav nav-pills nav-stacked"
+          >
+            <li>
+              <a
+                className="page-link"
+                href="/"
+                onClick={[Function]}
+              >
+                <span>
+                  Home
+                </span>
+              </a>
+            </li>
+            <li>
+              <a
+                className="page-link"
+                href="/about"
+                onClick={[Function]}
+              >
+                <span>
+                  About
+                </span>
+              </a>
+            </li>
+            <li>
+              <a
+                className="page-link"
+                href="/products"
+                onClick={[Function]}
+              >
+                <span>
+                  Products
+                </span>
+              </a>
+            </li>
+            <li>
+              <a
+                className="page-link"
+                href="/contact"
+                onClick={[Function]}
+              >
+                <span>
+                  Contact
+                </span>
+              </a>
+            </li>
+            <li>
+              <a
+                className="page-link"
+                href="/login"
+                onClick={[Function]}
+              >
+                <span>
+                  Log In
+                </span>
+              </a>
+            </li>
+            <li>
+              <button
+                className="btn-change btn btn-primary"
+                onClick={[Function]}
+                type="button"
+              >
+                Hebrew
+              </button>
+            </li>
+          </ul>
+          <div
+            className="social-media"
+          >
+            <ul
+              className="list-inline"
+            >
+              <li>
+                <a
+                  className="icoFacebook"
+                  href="https://www.facebook.com/dudi.hamdi"
+                  target="_blank"
+                  title="Facebook"
+                >
+                  <i
+                    className="fa fa-facebook"
+                  />
+                </a>
+              </li>
+              <li>
+                <a
+                  className="icoTwitter"
+                  href="https://twitter.com/?lang=en"
+                  target="_blank"
+                  title="Twitter"
+                >
+                  <i
+                    className="fa fa-twitter"
+                  />
+                </a>
+              </li>
+              <li>
+                <a
+                  className="icoGoogle"
+                  href="https://plus.google.com/discover?hl=iw"
+                  target="_blank"
+                  title="Google +"
+                >
+                  <i
+                    className="fa fa-google-plus"
+                  />
+                </a>
+              </li>
+              <li>
+                <a
+                  className="icoLinkedin"
+                  href="https://www.linkedin.com/"
+                  target="_blank"
+                  title="Linkedin"
+                >
+                  <i
+                    className="fa fa-linkedin"
+                  />
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="App-subheader"
+    />
+  </header>
+  <div
+    className="col-md-12 app-body"
+  />
+</div>
+`;

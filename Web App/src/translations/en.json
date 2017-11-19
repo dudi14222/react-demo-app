@@ -1,0 +1,9 @@
+{
+    "Home": "Home",
+    "About":  "About",
+    "Products": "Products",
+    "Contact": "Contact",
+    "LogIn": "Log In",
+    "Cart": "Cart {nItems}",
+    "SwitchLanguage": "Hebrew"
+}

@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CartItem snapshot tests test snapshot 1`] = `
+<tr>
+  <td />
+  <td />
+  <td />
+  <td>
+    <img
+      className="cart-item-image"
+      src={undefined}
+    />
+     
+  </td>
+  <td
+    className="td-remove"
+    onClick={[Function]}
+  >
+    <label
+      className="lbl-remove-item glyphicon glyphicon-remove"
+    />
+    <button
+      className="btn btn-primary btn-remove-item"
+      type="button"
+    >
+      Remove
+    </button>
+  </td>
+</tr>
+`;

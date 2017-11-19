@@ -1,0 +1,25 @@
+
+  .sidenav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1000;
+    display: block;
+    background-color: black;
+  }
+
+
+.closed{
+    display: none;
+  }
+
+.parent-side-SideBar{
+  padding-top: 40px;
+}
+
+.App-menubar .hamburger-icon {
+  font-size: 2rem;
+  padding: 1rem;
+}
+

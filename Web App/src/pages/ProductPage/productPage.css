@@ -1,0 +1,21 @@
+.item-page-image{
+    height: 400px;
+    width: 500px;
+    background-repeat: no-repeat;
+}
+.buy-button{
+    margin-right: 5px;
+}
+.buy-button, .back-button{
+    width: 55px;
+}
+.product-image{
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+@media (max-width: 650px) {
+  .product-image{
+  height: 300px;
+  }
+}

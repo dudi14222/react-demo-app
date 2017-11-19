@@ -1,0 +1,76 @@
+html, body, .container-fluid, .row {
+	height: 100%;
+}
+
+.main-image:hover{
+  -webkit-animation: fadein-image 1s;
+  opacity: 0.6;
+}
+@-webkit-keyframes fadein-image {
+    from { opacity: 1; }
+    to   { opacity: 0.6; }
+}
+.modal-image-desc{
+  padding: 15px;
+}
+@media (min-width: 990px) {
+  .modal-image{
+  height: 450px;
+  }
+}
+@media (max-width: 440px) {
+  .modal-image{
+  height: 300px;
+  }
+}
+.list-reset{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.div-initial{
+  display: initial
+}
+.fade-leave{
+  right: 0px;
+  transform: rotateX(0deg) rotateZ(0deg);
+}
+.fade-leave-active{
+  right: -900px;
+  transform: rotateX(120deg) rotateZ(120deg);
+  transition: .8s ease-out all;
+}
+
+.fade-enter{
+  top: -500px;
+}
+.fade-enter-active{
+  top: 0px;
+  transition: .5s ease-in all;
+}
+.fade-appear{ 
+  opacity: 0;
+}
+.fade-appear-active{  
+  opacity: 1;
+  transition: .9s ease-in all;
+}
+.float-right{
+  float: right;
+}
+.raised-2 {
+ box-shadow:  0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.3);
+}
+.inner-content{
+  margin-top: 290px;
+}
+.btn-change:hover{
+    -webkit-transform: scale(1.1);
+    background: darkblue;
+}
+
+.btn-change{    
+    -webkit-transition: all 0.5s ease-in-out;        
+}
+ 
