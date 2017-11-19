@@ -1,9 +1,9 @@
-
-
+var cors = require('cors');
 var fs = require('fs');
 var products = JSON.parse(fs.readFileSync('./data/jsonData.json', 'utf8'));
 const express = require('express')
 const app = express()
+app.use(cors());
 
 var bodyParser = require('body-parser');
 app.use(bodyParser.json()); // support json encoded bodies
