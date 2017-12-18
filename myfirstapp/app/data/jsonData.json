@@ -1,0 +1,98 @@
+[
+    {
+        "price": "$225",
+        "name": "Bansko",
+        "shortDesc": "Some short and temp description",
+        "description": "Bansko is a resort which is developing with extremely fast temps. The concessionaire Ulen provides new opportunities for the skiers, the snowboarders, the extreme sports, biathlon and cross - country skiing.",
+        "imageUrl": "first",
+        "id": 1
+    },
+    {
+        "price": "$350",
+        "name": "Passo Tonale",
+        "shortDesc": "Some short and temp description",
+        "description": "On the border between Lombardy and Trentino, Passo Tonale is a natural amphitheatre that marks the border between the Val di Sole and Vallecamonica. It is open to the sun and boasts fantastic views, due to its altitude from 1884 m to 3100 m, between the Ortles-Cevedale and Adamello-Presanella mountain ranges.",
+        "imageUrl": "second",
+        "id": 2
+    },
+    {
+        "price": "$450",
+        "name": "Avoriaz",
+        "shortDesc": "Some short and temp description",
+        "description": "Avoriaz, located in the heart of the huge Portes du Soleil game area, offers plenty of outside activities to do in a unique and exotic surrounding! With your family or with your friends, enjoy the pure air of the mountain to revitalize yourself and discover between the hiking and the MTB paths, the wonderful landscapes of Avoriaz. If you are fancy of strong feeling sport or relaxation activities, enjoy your holidays at 100 %! Don’t wait anymore and book your stay in Avoriaz !",
+        "imageUrl": "third",
+        "id": 3
+    },
+    // {
+    //     "price": "$350",
+    //     "name": "Bansko",
+    //     "shortDesc": "Some short and temp description",
+    //     "description": "Me in bansko",
+    //     "imageUrl": "/images/bansko-2.jpg",
+    //     "id": 4
+    // },
+    {
+        "price": "$180",
+        "name": "Spindleruv",
+        "shortDesc": "Some short and temp description",
+        "description": "Spindlermühle, formerly also Spindelmühle) is a town in the Hradec Králové Region of the Czech Republic. Located in the Krkonoše (Giant Mountains) range, it is one of the most frequented mountain and ski resorts in the country.",
+        "imageUrl": "spindleruv",
+        "id": 5
+    },
+    // {
+    //     "price": "$350",
+    //     "name": "Salzburg",
+    //     "shortDesc": "Some short and temp description",
+    //     "description": "Salzburg makes an excellent centre as the base for a ski safari of the surrounding mountain countryside and the Salzburg Super Ski Card covers most of the big and small ski resorts in (and out of) the province. More famous resorts, such as Zell am See, Saalbach and Obertauern, are included on the card, along with some hidden gems in the area, such as the Hochkönig and the ski resorts of the Salzburger Sportwelt.But the pass also includes some large ski areas outside the province of Salzburg, such as Kitzbühel and Schladming in the Tyrol and Styria.",
+    //     "imageUrl": "/images/salzburg.jpg",
+    //     "id": 6
+    // },
+    // {
+    //     "price": "$350",
+    //     "name": "Val Thorens",
+    //     "shortDesc": "Some short and temp description",
+    //     "description": "Val Thorens (France) is the highest altitude resort in Europe and the highest point in the 3 Vallées ski area, the largest ski area in the world with over 600 kilometres of runs.Open from the November 18th 2017 to May 8th 2017.Situated in a vast natural cirque overlooked by 6 glaciers, the Val Thorens ski area offers a multitude of itineraries so you can ski in the sunshine all day long.",
+    //     "imageUrl": "/images/val_thorens.jpg",
+    //     "id": 7
+    // },
+    {
+        "price": "$520",
+        "name": "Cervinia",
+        "shortDesc": "Some short and temp description",
+        "description": "The Breuil-Cervinia Valtournenche Zermatt area is one of the largest in the Alps, with a varied “domaine skiable” beyond compare, which stretches through three valleys in two countries, Italy and Switzerland, from the 3,883 m of the Piccolo Cervino descending to the 1,524 m of Valtournenche.  Ski runs offering the chance to ski all day without ever repeating the same run twice, alternating easier runs with those of increasing difficulty.",
+        "imageUrl": "Cervinia",
+        "id": 8
+    }
+    // {
+    //     "price": "$350",
+    //     "name": "Avoriaz",
+    //     "shortDesc": "Some short and temp description",
+    //     "description": "some Some short and temp description",
+    //     "imageUrl": "/images/avoriaz.jpg",
+    //     "id": 9
+    // },
+    // {
+    //     "price": "$350",
+    //     "name": "Mayrhofen",
+    //     "shortDesc": "Some short and temp description",
+    //     "description": "some Some short and temp description",
+    //     "imageUrl": "/images/mayrhofen.jpg",
+    //     "id": 10
+    // },
+    // {
+    //     "price": "$350",
+    //     "name": "Val Thorens",
+    //     "shortDesc": "Some short and temp description",
+    //     "description": "some Some short and temp description",
+    //     "imageUrl": "/images/Val__Thorens.jpg",
+    //     "id": 11
+    // },
+    // {
+    //     "price": "$350",
+    //     "name": "Vallnord",
+    //     "shortDesc": "Some short and temp description",
+    //     "description": "some description",
+    //     "imageUrl": "/images/vallnord.jpg",
+    //     "id": 12
+    // }
+]
